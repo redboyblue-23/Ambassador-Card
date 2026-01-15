@@ -17,7 +17,7 @@
 
 /* Style for individual logos */
 .logo {
-    max-width: 200px; /* Set a maximum width for the logos */
+    max-width: 20%; /* Set a maximum width for the logos */
     height: auto; /* Maintain aspect ratio */
 }
 
